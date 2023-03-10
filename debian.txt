@@ -5,4 +5,5 @@ http.kali.org
 packages.linuxmint.com
 apt.pop-os.org
 archive.ubuntu.com
+us.archive.ubuntu.com
 ppa.launchpad.net
