@@ -53,7 +53,7 @@
 		{
 			"name": "linuxmirrors",
 			"description": "CDN-mirros for linux",
-			"domain_files": ["linuxmirros.txt"]
+			"domain_files": ["linuxmirrors.txt"]
 		},
 		{
 			"name": "nexusmods",
