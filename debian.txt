@@ -9,6 +9,7 @@ archive.ubuntu.nautile.nc
 archive.ubuntu.petiak.ir
 archive.ubuntumirror.dei.uc.pt
 deb.debian.org
+debian.osuosl.org
 ftp.debian.org
 http.kali.org
 ir.ubuntu.sindad.cloud
