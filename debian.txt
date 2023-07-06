@@ -107,3 +107,4 @@ ubuntu.vargonen.com
 ubuntu.volia.net
 ubuntu.zero.com.ar
 ubuntutym.u-toyama.ac.jp
+mirror.aarnet.edu.au
